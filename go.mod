@@ -1,3 +1,3 @@
-module github.com/janusz-chludzinski/go-modules/v2
+module github.com/janusz-chludzinski/go-modules/v3
 
 go 1.14
